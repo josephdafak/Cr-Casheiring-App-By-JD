@@ -1,2 +1,9 @@
-# CR-Cashiering-App
-Our CR Cashiering App – Accurate daily tracking, seamless transactions, and automated resets!
+# CR Cashiering App By JD
+
+A brief description of your project.
+
+## Installation
+Steps to set up the project.
+
+## Usage
+How to use the project.
